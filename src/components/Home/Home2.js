@@ -50,6 +50,9 @@ function Home2() {
               <i>
                 <b className="purple"> React.js and Next.js</b>
               </i>
+              <br/>
+              <br/>
+                    I am also a <b className="purple">Shopify App</b> Developer.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
